@@ -1,0 +1,324 @@
+{
+  "business": {
+    "name": "Best Carpentry",
+    "shortName": "Best Carpentry",
+    "tagline": "Precision Craftsmanship for Dallas Homes & Businesses",
+    "niche": "Carpenter",
+    "phone": "(214) 342-3300",
+    "address": "11560 Chairman Dr, Dallas, TX 75243",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 7:00 AM - 6:00 PM, Sat 8:00 AM - 2:00 PM",
+    "ctaLabel": "Get a Free Estimate",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Best Carpentry | Expert Carpenter in Dallas, TX | Custom Woodwork",
+    "description": "Best Carpentry offers premium custom woodwork, cabinetry, and trim in Dallas, TX. Family-owned, 5-star rated. Call (214) 342-3300 for a free estimate."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas's Trusted Carpentry Experts",
+      "headline": "Custom Woodwork That Elevates Your Space",
+      "subheadline": "From bespoke cabinetry to intricate trim, we craft lasting beauty for your home or business.",
+      "primaryCta": "Get a Free Estimate",
+      "secondaryCta": "View Our Work"
+    },
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "500+",
+        "label": "Projects Completed"
+      },
+      {
+        "value": "5.0",
+        "label": "Average Rating"
+      },
+      {
+        "value": "100%",
+        "label": "Client Satisfaction"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Custom Cabinetry",
+        "title": "Tailored Cabinets for Every Room",
+        "body": "Our custom cabinetry transforms kitchens, bathrooms, and living areas with precision-fit designs. We use premium hardwoods and modern finishes to match your style and maximize storage.",
+        "bullets": [
+          "Fully custom sizes and layouts",
+          "Soft-close doors and drawers",
+          "Eco-friendly materials available"
+        ],
+        "reverse": false,
+        "cardLabel": "Kitchen Cabinets",
+        "cardTitle": "Dream Kitchen Starts Here",
+        "cardBody": "Get the kitchen you've always wanted with our custom-built cabinets, designed to fit your space perfectly."
+      },
+      {
+        "eyebrow": "Trim & Molding",
+        "title": "Elegant Trim That Defines Your Home",
+        "body": "Our expert trim work adds character and value to any room. From crown molding to baseboards, we ensure seamless joints and flawless finishes that stand the test of time.",
+        "bullets": [
+          "Crown, chair rail, and baseboard",
+          "Custom profiles and designs",
+          "Painting and staining options"
+        ],
+        "reverse": true,
+        "cardLabel": "Crown Molding",
+        "cardTitle": "Add Architectural Detail",
+        "cardBody": "Elevate your interiors with custom crown molding that adds elegance and sophistication to any room."
+      }
+    ],
+    "whyTitle": "Why Choose Best Carpentry?",
+    "whyChooseUs": [
+      {
+        "title": "Expert Craftsmanship",
+        "description": "Our team has over 15 years of experience, delivering precision and attention to detail on every project."
+      },
+      {
+        "title": "Premium Materials",
+        "description": "We source only the finest hardwoods and finishes, ensuring durability and beauty for years to come."
+      },
+      {
+        "title": "On-Time, On-Budget",
+        "description": "We respect your time and budget, completing projects as scheduled with no hidden costs."
+      },
+      {
+        "title": "Personalized Service",
+        "description": "From consultation to installation, we work closely with you to bring your vision to life."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Best Carpentry transformed our kitchen with beautiful custom cabinets. The quality is outstanding and they were a pleasure to work with.",
+        "author": "Jennifer L.",
+        "role": "Lakewood homeowner"
+      },
+      {
+        "quote": "We hired them for crown molding throughout our home. The precision and care they took was incredible. Highly recommend!",
+        "author": "Mark T.",
+        "role": "Highland Park resident"
+      },
+      {
+        "quote": "Professional, punctual, and the craftsmanship is top-notch. Our new built-in shelving is the highlight of our living room.",
+        "author": "Lisa M.",
+        "role": "Uptown Dallas homeowner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Transform Your Space?",
+      "subheadline": "Contact us today for a free consultation and estimate.",
+      "primaryCta": "Get a Free Estimate",
+      "secondaryCta": "Call (214) 342-3300"
+    }
+  },
+  "servicesPage": {
+    "intro": "At Best Carpentry, we offer a full range of custom woodwork services for residential and commercial clients in Dallas, TX. From concept to completion, our skilled craftsmen deliver exceptional results that enhance your property's beauty and value."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Custom Cabinetry",
+      "shortDescription": "Bespoke cabinets for kitchens, bathrooms, and more, designed to maximize style and storage.",
+      "longDescription": "Our custom cabinetry service covers every detail, from initial design to final installation. We work with you to select the perfect wood species, finish, and hardware, creating cabinets that fit your space exactly. Whether you need a complete kitchen remodel or a custom bathroom vanity, our team delivers superior craftsmanship and lasting quality.",
+      "benefits": [
+        "Maximizes storage and functionality",
+        "Enhances home value and appeal",
+        "Fully customizable to your style"
+      ],
+      "process": [
+        {
+          "title": "Consultation & Design",
+          "description": "We meet with you to discuss your needs, measure your space, and create a detailed design plan."
+        },
+        {
+          "title": "Material Selection",
+          "description": "Choose from a wide range of premium hardwoods, finishes, and hardware to match your vision."
+        },
+        {
+          "title": "Precision Installation",
+          "description": "Our craftsmen build and install your cabinets with meticulous attention to fit and finish."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does custom cabinetry take?",
+          "answer": "Typical projects take 4-6 weeks from design to installation, depending on complexity."
+        },
+        {
+          "question": "Do you offer free estimates?",
+          "answer": "Yes, we provide free, no-obligation estimates for all cabinetry projects."
+        }
+      ],
+      "slug": "custom-cabinetry"
+    },
+    {
+      "icon": "02",
+      "title": "Trim & Molding",
+      "shortDescription": "Elegant crown molding, baseboards, and custom trim to add character to any room.",
+      "longDescription": "Our trim and molding services bring architectural detail and refinement to your interiors. We specialize in crown molding, chair rails, wainscoting, and custom profiles that complement your home's style. Our skilled installation ensures seamless joints and perfect alignment, creating a polished, high-end look.",
+      "benefits": [
+        "Adds elegance and character",
+        "Increases property value",
+        "Conceals imperfections and transitions"
+      ],
+      "process": [
+        {
+          "title": "Design Consultation",
+          "description": "We review your space and recommend molding styles that suit your architecture and taste."
+        },
+        {
+          "title": "Custom Fabrication",
+          "description": "We cut and prepare all materials on-site or in our workshop for a precise fit."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our team installs the trim with precision, ensuring clean lines and durable results."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you match existing trim?",
+          "answer": "Yes, we can replicate or complement existing trim profiles for seamless additions."
+        },
+        {
+          "question": "Do you paint or stain the trim?",
+          "answer": "We offer both painting and staining services to match your desired finish."
+        }
+      ],
+      "slug": "trim-molding"
+    },
+    {
+      "icon": "03",
+      "title": "Built-In Shelving & Bookcases",
+      "shortDescription": "Custom built-in shelves and bookcases that maximize space and add sophistication.",
+      "longDescription": "Transform any room with custom built-in shelving and bookcases. Our designs are tailored to your space and needs, whether you want a home library, entertainment center, or display shelving. We use high-quality materials and expert joinery to create durable, beautiful built-ins that become a focal point of your home.",
+      "benefits": [
+        "Custom fit for any wall or alcove",
+        "Adds functional storage and display space",
+        "Increases home value and aesthetics"
+      ],
+      "process": [
+        {
+          "title": "Space Assessment",
+          "description": "We measure and assess the area to design a built-in that maximizes your space."
+        },
+        {
+          "title": "Design & Material Selection",
+          "description": "Choose from various styles, woods, and finishes to match your decor."
+        },
+        {
+          "title": "Installation & Finishing",
+          "description": "Our team installs the shelving and applies the final finish for a seamless look."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can built-ins be added to existing rooms?",
+          "answer": "Absolutely. We design built-ins to fit any room, including around windows, doors, or sloped ceilings."
+        },
+        {
+          "question": "What materials do you use?",
+          "answer": "We use solid hardwoods, plywood, and MDF, depending on your budget and preference."
+        }
+      ],
+      "slug": "built-in-shelving-bookcases"
+    },
+    {
+      "icon": "04",
+      "title": "Custom Furniture & Woodwork",
+      "shortDescription": "One-of-a-kind furniture and architectural woodwork for residential and commercial spaces.",
+      "longDescription": "Our custom furniture and woodwork service brings your unique ideas to life. From dining tables and desks to bar tops and decorative panels, we create pieces that reflect your personal style. We combine traditional joinery techniques with modern design to produce heirloom-quality furniture that lasts.",
+      "benefits": [
+        "Unique, one-of-a-kind pieces",
+        "Perfectly sized for your space",
+        "High-quality craftsmanship and materials"
+      ],
+      "process": [
+        {
+          "title": "Concept Development",
+          "description": "We discuss your ideas, sketch designs, and refine the concept until it's just right."
+        },
+        {
+          "title": "Material & Finish Selection",
+          "description": "Choose from premium hardwoods, veneers, and finishes to achieve your desired look."
+        },
+        {
+          "title": "Building & Delivery",
+          "description": "Our craftsmen build your piece with care, then deliver and install it in your home or office."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you replicate an existing piece of furniture?",
+          "answer": "Yes, we can create replicas or inspired designs based on photos or measurements."
+        },
+        {
+          "question": "Do you offer design services?",
+          "answer": "Yes, we provide full design assistance to help you create the perfect piece."
+        }
+      ],
+      "slug": "custom-furniture-woodwork"
+    }
+  ],
+  "about": {
+    "headline": "Dallas's Premier Carpentry Craftsmanship",
+    "mission": "To deliver exceptional custom woodwork that enhances homes and businesses, built on a foundation of quality, integrity, and customer satisfaction.",
+    "story": [
+      "Best Carpentry was founded with a simple mission: bring precision craftsmanship and personalized service to every project. With over 15 years of experience, our team has grown from a small workshop to a trusted name in Dallas custom woodwork. We take pride in our work, using time-honored techniques and the finest materials to create pieces that last.",
+      "Our commitment to excellence has earned us a 5.0 rating and a loyal client base. We believe in transparent communication, fair pricing, and meticulous attention to detail. Whether it's a kitchen remodel or a custom furniture piece, we treat every project as a reflection of our reputation."
+    ],
+    "highlight": {
+      "stat": "15+",
+      "label": "Years of Experience"
+    },
+    "coreValues": [
+      {
+        "title": "Quality First",
+        "description": "We never compromise on materials or workmanship, ensuring every piece meets our high standards."
+      },
+      {
+        "title": "Customer Focus",
+        "description": "Your vision guides our work. We listen, communicate, and deliver exactly what you want."
+      },
+      {
+        "title": "Integrity",
+        "description": "Honest pricing, reliable timelines, and transparent processes build trust with every client."
+      },
+      {
+        "title": "Craftsmanship",
+        "description": "Our skilled team takes pride in the art of woodworking, blending tradition with innovation."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch",
+    "subheadline": "Ready to start your project? Contact us today for a free consultation and estimate.",
+    "primaryCta": "Call (214) 342-3300",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Highland Park",
+      "University Park",
+      "Lakewood",
+      "Uptown",
+      "Preston Hollow",
+      "Park Cities",
+      "Oak Lawn"
+    ]
+  },
+  "social_proof": {
+    "rating": 5.0,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Carpenter",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2143423300",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
