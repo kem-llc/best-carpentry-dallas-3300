@@ -2,26 +2,26 @@
   "business": {
     "name": "Best Carpentry",
     "shortName": "Best Carpentry",
-    "tagline": "Precision Craftsmanship for Dallas Homes & Businesses",
+    "tagline": "Expert Custom Woodwork & Repairs in Dallas",
     "niche": "Carpenter",
     "phone": "(214) 342-3300",
-    "address": "11560 Chairman Dr, Dallas, TX 75243",
+    "address": "Done",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri 7:00 AM - 6:00 PM, Sat 8:00 AM - 2:00 PM",
+    "hours": "Mon-Fri 7:00 AM - 6:00 PM",
     "ctaLabel": "Get a Free Estimate",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Best Carpentry | Expert Carpenter in Dallas, TX | Custom Woodwork",
-    "description": "Best Carpentry offers premium custom woodwork, cabinetry, and trim in Dallas, TX. Family-owned, 5-star rated. Call (214) 342-3300 for a free estimate."
+    "title": "Best Carpentry | Expert Carpenter in Dallas, TX | Custom Woodwork & Repairs",
+    "description": "Best Carpentry offers professional carpentry services in Dallas, TX. From custom furniture to home repairs, our skilled carpenters deliver quality craftsmanship. Call (214) 342-3300 for a free estimate."
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas's Trusted Carpentry Experts",
-      "headline": "Custom Woodwork That Elevates Your Space",
-      "subheadline": "From bespoke cabinetry to intricate trim, we craft lasting beauty for your home or business.",
+      "eyebrow": "Dallas's Trusted Carpenter",
+      "headline": "Masterful Woodwork, Unmatched Precision",
+      "subheadline": "From custom cabinetry to intricate trim, we bring your vision to life with expert craftsmanship and attention to detail.",
       "primaryCta": "Get a Free Estimate",
-      "secondaryCta": "View Our Work"
+      "secondaryCta": "See Our Work"
     },
     "stats": [
       {
@@ -33,123 +33,123 @@
         "label": "Projects Completed"
       },
       {
-        "value": "5.0",
-        "label": "Average Rating"
+        "value": "98%",
+        "label": "Client Satisfaction"
       },
       {
-        "value": "100%",
-        "label": "Client Satisfaction"
+        "value": "4.9",
+        "label": "Average Rating"
       }
     ],
     "featureSections": [
       {
-        "eyebrow": "Custom Cabinetry",
-        "title": "Tailored Cabinets for Every Room",
-        "body": "Our custom cabinetry transforms kitchens, bathrooms, and living areas with precision-fit designs. We use premium hardwoods and modern finishes to match your style and maximize storage.",
+        "eyebrow": "Custom Carpentry",
+        "title": "Bespoke Woodwork Tailored to Your Style",
+        "body": "Whether you need a custom bookshelf, a unique dining table, or built-in cabinetry, we design and build pieces that reflect your taste and enhance your home. Our process ensures a perfect fit and flawless finish.",
         "bullets": [
-          "Fully custom sizes and layouts",
-          "Soft-close doors and drawers",
-          "Eco-friendly materials available"
+          "Personalized design consultation",
+          "Premium hardwood selection",
+          "Handcrafted joinery for durability"
         ],
         "reverse": false,
-        "cardLabel": "Kitchen Cabinets",
-        "cardTitle": "Dream Kitchen Starts Here",
-        "cardBody": "Get the kitchen you've always wanted with our custom-built cabinets, designed to fit your space perfectly."
+        "cardLabel": "Why Choose Us",
+        "cardTitle": "Quality You Can See and Feel",
+        "cardBody": "Every piece is sanded, stained, and sealed to perfection, ensuring it stands the test of time."
       },
       {
-        "eyebrow": "Trim & Molding",
-        "title": "Elegant Trim That Defines Your Home",
-        "body": "Our expert trim work adds character and value to any room. From crown molding to baseboards, we ensure seamless joints and flawless finishes that stand the test of time.",
+        "eyebrow": "Repairs & Restoration",
+        "title": "Bring New Life to Old Woodwork",
+        "body": "From creaky stairs to damaged cabinets, we restore your home's wood features to their former glory. Our carpenters specialize in matching existing styles and materials for seamless repairs.",
         "bullets": [
-          "Crown, chair rail, and baseboard",
-          "Custom profiles and designs",
-          "Painting and staining options"
+          "Structural and cosmetic repairs",
+          "Antique furniture restoration",
+          "Trim and molding replacement"
         ],
         "reverse": true,
-        "cardLabel": "Crown Molding",
-        "cardTitle": "Add Architectural Detail",
-        "cardBody": "Elevate your interiors with custom crown molding that adds elegance and sophistication to any room."
+        "cardLabel": "Our Promise",
+        "cardTitle": "Meticulous Attention to Detail",
+        "cardBody": "We take the time to understand your needs and deliver results that exceed expectations."
       }
     ],
-    "whyTitle": "Why Choose Best Carpentry?",
+    "whyTitle": "Why Best Carpentry?",
     "whyChooseUs": [
       {
-        "title": "Expert Craftsmanship",
-        "description": "Our team has over 15 years of experience, delivering precision and attention to detail on every project."
+        "title": "Skilled Artisans",
+        "description": "Our team consists of experienced carpenters who take pride in their craft, ensuring every project is executed with precision."
       },
       {
-        "title": "Premium Materials",
-        "description": "We source only the finest hardwoods and finishes, ensuring durability and beauty for years to come."
+        "title": "On-Time Completion",
+        "description": "We respect your schedule and complete projects within the agreed timeline without sacrificing quality."
       },
       {
-        "title": "On-Time, On-Budget",
-        "description": "We respect your time and budget, completing projects as scheduled with no hidden costs."
+        "title": "Clean & Respectful",
+        "description": "We maintain a clean workspace and treat your home with care, minimizing disruption to your daily life."
       },
       {
-        "title": "Personalized Service",
-        "description": "From consultation to installation, we work closely with you to bring your vision to life."
+        "title": "Competitive Pricing",
+        "description": "We offer fair, transparent pricing with no hidden fees, providing exceptional value for top-tier craftsmanship."
       }
     ],
     "testimonials": [
       {
-        "quote": "Best Carpentry transformed our kitchen with beautiful custom cabinets. The quality is outstanding and they were a pleasure to work with.",
-        "author": "Jennifer L.",
-        "role": "Lakewood homeowner"
+        "quote": "Best Carpentry transformed our outdated kitchen with beautiful custom cabinets. The attention to detail was amazing.",
+        "author": "Sarah M.",
+        "role": "Homeowner in Lakewood"
       },
       {
-        "quote": "We hired them for crown molding throughout our home. The precision and care they took was incredible. Highly recommend!",
-        "author": "Mark T.",
-        "role": "Highland Park resident"
+        "quote": "They repaired our front porch stairs and they look better than new. Highly professional and efficient.",
+        "author": "James T.",
+        "role": "Homeowner in Highland Park"
       },
       {
-        "quote": "Professional, punctual, and the craftsmanship is top-notch. Our new built-in shelving is the highlight of our living room.",
-        "author": "Lisa M.",
-        "role": "Uptown Dallas homeowner"
+        "quote": "We hired them for custom built-in shelves and the result is stunning. Perfect fit and finish.",
+        "author": "Emily R.",
+        "role": "Homeowner in Preston Hollow"
       }
     ],
     "cta": {
-      "headline": "Ready to Transform Your Space?",
-      "subheadline": "Contact us today for a free consultation and estimate.",
+      "headline": "Ready to Start Your Project?",
+      "subheadline": "Contact us today for a free, no-obligation estimate.",
       "primaryCta": "Get a Free Estimate",
       "secondaryCta": "Call (214) 342-3300"
     }
   },
   "servicesPage": {
-    "intro": "At Best Carpentry, we offer a full range of custom woodwork services for residential and commercial clients in Dallas, TX. From concept to completion, our skilled craftsmen deliver exceptional results that enhance your property's beauty and value."
+    "intro": "Our comprehensive carpentry services cover everything from custom furniture to home repairs. Each service is delivered with the highest standards of craftsmanship and customer care."
   },
   "services": [
     {
       "icon": "01",
       "title": "Custom Cabinetry",
-      "shortDescription": "Bespoke cabinets for kitchens, bathrooms, and more, designed to maximize style and storage.",
-      "longDescription": "Our custom cabinetry service covers every detail, from initial design to final installation. We work with you to select the perfect wood species, finish, and hardware, creating cabinets that fit your space exactly. Whether you need a complete kitchen remodel or a custom bathroom vanity, our team delivers superior craftsmanship and lasting quality.",
+      "shortDescription": "Design and build custom cabinets for kitchens, bathrooms, and more.",
+      "longDescription": "Our custom cabinetry service creates beautiful, functional storage solutions tailored to your space and style. We use premium materials and expert joinery to ensure durability and elegance.",
       "benefits": [
-        "Maximizes storage and functionality",
-        "Enhances home value and appeal",
-        "Fully customizable to your style"
+        "Maximized storage and organization",
+        "Unique designs that match your décor",
+        "Durable construction with soft-close hardware"
       ],
       "process": [
         {
-          "title": "Consultation & Design",
-          "description": "We meet with you to discuss your needs, measure your space, and create a detailed design plan."
+          "title": "Consultation",
+          "description": "We discuss your needs, measure the space, and review design options."
         },
         {
-          "title": "Material Selection",
-          "description": "Choose from a wide range of premium hardwoods, finishes, and hardware to match your vision."
+          "title": "Design & Approval",
+          "description": "We create detailed drawings and material samples for your approval."
         },
         {
-          "title": "Precision Installation",
-          "description": "Our craftsmen build and install your cabinets with meticulous attention to fit and finish."
+          "title": "Installation",
+          "description": "Our team installs the cabinets with precision, ensuring a perfect fit."
         }
       ],
       "faqs": [
         {
           "question": "How long does custom cabinetry take?",
-          "answer": "Typical projects take 4-6 weeks from design to installation, depending on complexity."
+          "answer": "Typically 4-6 weeks from design approval to installation, depending on complexity."
         },
         {
-          "question": "Do you offer free estimates?",
-          "answer": "Yes, we provide free, no-obligation estimates for all cabinetry projects."
+          "question": "What materials do you use?",
+          "answer": "We offer a variety of hardwoods, plywoods, and MDF with multiple finish options."
         }
       ],
       "slug": "custom-cabinetry"
@@ -157,145 +157,145 @@
     {
       "icon": "02",
       "title": "Trim & Molding",
-      "shortDescription": "Elegant crown molding, baseboards, and custom trim to add character to any room.",
-      "longDescription": "Our trim and molding services bring architectural detail and refinement to your interiors. We specialize in crown molding, chair rails, wainscoting, and custom profiles that complement your home's style. Our skilled installation ensures seamless joints and perfect alignment, creating a polished, high-end look.",
+      "shortDescription": "Install crown molding, baseboards, and decorative trim.",
+      "longDescription": "Enhance your home's character with expertly installed trim and molding. We handle everything from simple baseboards to intricate crown moldings, adding elegance and value to any room.",
       "benefits": [
-        "Adds elegance and character",
-        "Increases property value",
-        "Conceals imperfections and transitions"
+        "Adds architectural interest",
+        "Seamless joints and corners",
+        "Increases home value"
       ],
       "process": [
         {
-          "title": "Design Consultation",
-          "description": "We review your space and recommend molding styles that suit your architecture and taste."
+          "title": "Assessment",
+          "description": "We evaluate your space and recommend molding styles that complement your home."
         },
         {
-          "title": "Custom Fabrication",
-          "description": "We cut and prepare all materials on-site or in our workshop for a precise fit."
+          "title": "Material Selection",
+          "description": "Choose from wood, MDF, or polyurethane options."
         },
         {
-          "title": "Expert Installation",
-          "description": "Our team installs the trim with precision, ensuring clean lines and durable results."
+          "title": "Installation",
+          "description": "We cut and install each piece with precise mitered corners for a flawless look."
         }
       ],
       "faqs": [
         {
           "question": "Can you match existing trim?",
-          "answer": "Yes, we can replicate or complement existing trim profiles for seamless additions."
+          "answer": "Yes, we can replicate or complement your current trim style and profile."
         },
         {
-          "question": "Do you paint or stain the trim?",
-          "answer": "We offer both painting and staining services to match your desired finish."
+          "question": "Do you paint the trim?",
+          "answer": "We can install primed trim ready for painting, or we can paint it for an additional fee."
         }
       ],
       "slug": "trim-molding"
     },
     {
       "icon": "03",
-      "title": "Built-In Shelving & Bookcases",
-      "shortDescription": "Custom built-in shelves and bookcases that maximize space and add sophistication.",
-      "longDescription": "Transform any room with custom built-in shelving and bookcases. Our designs are tailored to your space and needs, whether you want a home library, entertainment center, or display shelving. We use high-quality materials and expert joinery to create durable, beautiful built-ins that become a focal point of your home.",
+      "title": "Deck & Porch Building",
+      "shortDescription": "Design and construct custom decks and porches.",
+      "longDescription": "Create an outdoor living space with a custom deck or porch. We design and build structures that are both beautiful and durable, using pressure-treated wood, composite, or cedar.",
       "benefits": [
-        "Custom fit for any wall or alcove",
-        "Adds functional storage and display space",
-        "Increases home value and aesthetics"
+        "Extends your living space outdoors",
+        "Custom design to fit your yard",
+        "Built to last with quality materials"
       ],
       "process": [
         {
-          "title": "Space Assessment",
-          "description": "We measure and assess the area to design a built-in that maximizes your space."
+          "title": "Design",
+          "description": "We create a layout that maximizes your outdoor area and meets your needs."
         },
         {
-          "title": "Design & Material Selection",
-          "description": "Choose from various styles, woods, and finishes to match your decor."
+          "title": "Permitting",
+          "description": "We handle all necessary permits and inspections."
         },
         {
-          "title": "Installation & Finishing",
-          "description": "Our team installs the shelving and applies the final finish for a seamless look."
+          "title": "Construction",
+          "description": "Our team builds your deck or porch with attention to safety and detail."
         }
       ],
       "faqs": [
         {
-          "question": "Can built-ins be added to existing rooms?",
-          "answer": "Absolutely. We design built-ins to fit any room, including around windows, doors, or sloped ceilings."
+          "question": "How long does it take to build a deck?",
+          "answer": "Most decks are completed within 1-2 weeks, depending on size and complexity."
         },
         {
-          "question": "What materials do you use?",
-          "answer": "We use solid hardwoods, plywood, and MDF, depending on your budget and preference."
+          "question": "What is the best material for a deck?",
+          "answer": "We recommend composite for low maintenance, but wood offers a classic look. We'll help you decide."
         }
       ],
-      "slug": "built-in-shelving-bookcases"
+      "slug": "deck-porch-building"
     },
     {
       "icon": "04",
-      "title": "Custom Furniture & Woodwork",
-      "shortDescription": "One-of-a-kind furniture and architectural woodwork for residential and commercial spaces.",
-      "longDescription": "Our custom furniture and woodwork service brings your unique ideas to life. From dining tables and desks to bar tops and decorative panels, we create pieces that reflect your personal style. We combine traditional joinery techniques with modern design to produce heirloom-quality furniture that lasts.",
+      "title": "Furniture & Built-Ins",
+      "shortDescription": "Custom furniture and built-in shelving, benches, and more.",
+      "longDescription": "We design and build custom furniture and built-ins that fit your space perfectly. From window seats to entertainment centers, our pieces are crafted to your specifications.",
       "benefits": [
-        "Unique, one-of-a-kind pieces",
-        "Perfectly sized for your space",
-        "High-quality craftsmanship and materials"
+        "Maximizes unused spaces",
+        "Unique pieces not found in stores",
+        "High-quality construction"
       ],
       "process": [
         {
-          "title": "Concept Development",
-          "description": "We discuss your ideas, sketch designs, and refine the concept until it's just right."
+          "title": "Idea Generation",
+          "description": "We discuss your vision and take measurements."
         },
         {
-          "title": "Material & Finish Selection",
-          "description": "Choose from premium hardwoods, veneers, and finishes to achieve your desired look."
+          "title": "Design",
+          "description": "We provide sketches and material options."
         },
         {
-          "title": "Building & Delivery",
-          "description": "Our craftsmen build your piece with care, then deliver and install it in your home or office."
+          "title": "Build & Install",
+          "description": "We craft the piece in our shop and install it on-site."
         }
       ],
       "faqs": [
         {
-          "question": "Can you replicate an existing piece of furniture?",
-          "answer": "Yes, we can create replicas or inspired designs based on photos or measurements."
+          "question": "Can you build furniture to match my existing décor?",
+          "answer": "Absolutely. We can match stains, paints, and styles to blend seamlessly."
         },
         {
-          "question": "Do you offer design services?",
-          "answer": "Yes, we provide full design assistance to help you create the perfect piece."
+          "question": "Do you offer design assistance?",
+          "answer": "Yes, we help you choose designs and materials that suit your taste and budget."
         }
       ],
-      "slug": "custom-furniture-woodwork"
+      "slug": "furniture-built-ins"
     }
   ],
   "about": {
-    "headline": "Dallas's Premier Carpentry Craftsmanship",
-    "mission": "To deliver exceptional custom woodwork that enhances homes and businesses, built on a foundation of quality, integrity, and customer satisfaction.",
+    "headline": "Crafting Excellence in Dallas Since 2008",
+    "mission": "Our mission is to provide exceptional carpentry services that enhance homes and lives through quality craftsmanship, integrity, and personalized service.",
     "story": [
-      "Best Carpentry was founded with a simple mission: bring precision craftsmanship and personalized service to every project. With over 15 years of experience, our team has grown from a small workshop to a trusted name in Dallas custom woodwork. We take pride in our work, using time-honored techniques and the finest materials to create pieces that last.",
-      "Our commitment to excellence has earned us a 5.0 rating and a loyal client base. We believe in transparent communication, fair pricing, and meticulous attention to detail. Whether it's a kitchen remodel or a custom furniture piece, we treat every project as a reflection of our reputation."
+      "Founded in 2008, Best Carpentry started as a small woodworking shop with a passion for creating beautiful, functional pieces. Over the years, we've grown into a full-service carpentry company serving homeowners throughout Dallas. Our founder, a master carpenter with over 20 years of experience, instilled a culture of precision and pride in every project.",
+      "Today, we continue to uphold those values, combining traditional woodworking techniques with modern tools and materials. Every project, whether a small repair or a large custom build, receives the same meticulous attention. We believe that quality work speaks for itself, and our long list of satisfied clients is a testament to that."
     ],
     "highlight": {
       "stat": "15+",
-      "label": "Years of Experience"
+      "label": "Years of Craftsmanship"
     },
     "coreValues": [
       {
-        "title": "Quality First",
-        "description": "We never compromise on materials or workmanship, ensuring every piece meets our high standards."
-      },
-      {
-        "title": "Customer Focus",
-        "description": "Your vision guides our work. We listen, communicate, and deliver exactly what you want."
+        "title": "Quality",
+        "description": "We never cut corners, using only the best materials and techniques."
       },
       {
         "title": "Integrity",
-        "description": "Honest pricing, reliable timelines, and transparent processes build trust with every client."
+        "description": "Honest pricing, clear communication, and keeping our promises."
+      },
+      {
+        "title": "Customer Focus",
+        "description": "Your satisfaction is our top priority from start to finish."
       },
       {
         "title": "Craftsmanship",
-        "description": "Our skilled team takes pride in the art of woodworking, blending tradition with innovation."
+        "description": "We take pride in our work and strive for perfection in every detail."
       }
     ]
   },
   "contact": {
     "headline": "Get in Touch",
-    "subheadline": "Ready to start your project? Contact us today for a free consultation and estimate.",
+    "subheadline": "Ready to discuss your project? Call or fill out the form for a free estimate.",
     "primaryCta": "Call (214) 342-3300",
     "formCta": "Send Message",
     "serviceAreas": [
@@ -303,14 +303,13 @@
       "Highland Park",
       "University Park",
       "Lakewood",
-      "Uptown",
       "Preston Hollow",
-      "Park Cities",
-      "Oak Lawn"
+      "Oak Lawn",
+      "Uptown"
     ]
   },
   "social_proof": {
-    "rating": 5.0,
+    "rating": "",
     "reviews": null
   },
   "meta": {
